@@ -1,0 +1,10 @@
+{
+  "name": "koa2Demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "suansuan",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.12.0"
+  }
+}
