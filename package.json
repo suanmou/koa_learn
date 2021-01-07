@@ -5,6 +5,7 @@
   "author": "suansuan",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.12.0"
+    "koa": "^2.12.0",
+    "koa-bodyparser": "^4.3.0"
   }
 }
